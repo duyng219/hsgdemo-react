@@ -11,7 +11,7 @@ const mainNav = [
     },
     {
         display: "About Us",
-        path: "/catalog"
+        path: "/about"
     },
     {
         display: "Content",
