@@ -7,7 +7,6 @@ import About from "../pages/About";
 import Content from "../pages/Content";
 import Login from "../components/auth/Login";
 import Register from "../components/auth/Register";
-// import Item from "../pages/Item";
 import Item from "../pages/Item";
 
 const Routes = () => {

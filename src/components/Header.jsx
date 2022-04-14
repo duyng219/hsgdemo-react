@@ -15,7 +15,7 @@ const mainNav = [
     },
     {
         display: "Content",
-        path: "/accessories"
+        path: "/content"
     },
     {
         display: "Contact",
